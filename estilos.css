@@ -1,5 +1,8 @@
 body {
 
-font-family:arial nova;
+font-family:Arial nova;
+font-size: medium;
 
 }
+
+p {text-align: center;}
